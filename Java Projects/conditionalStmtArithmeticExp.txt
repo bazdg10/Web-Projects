@@ -1,0 +1,26 @@
+float conditionalArithmeticExpCheck() {
+	int a;
+	input a;
+	int b;
+	input b;
+
+	if (a>b)
+		{
+			print a;
+			--a;
+			return 3.14*a*a;
+		}
+
+	else {
+			++b;
+			print b;
+			return 3.14*b*b;
+		 }
+
+	int c;
+	c = 7.28*a*b;
+
+	print c;
+	return c;
+}
+

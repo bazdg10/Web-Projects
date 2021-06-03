@@ -1,0 +1,28 @@
+int arrayReptOfElems(int arr[6]) {
+
+	int i;
+	i=0;
+
+	for i<6 {
+	input arr[i]
+	++i;
+	}
+
+	int repCount;
+	repCount = 0;
+
+	i=0;
+	for i<6 {
+
+		int j;
+		j=0;
+		for j<i {
+			if arr[j]==arr[i] {
+				++repCount;
+			}
+			++j;
+			}
+		++i;
+		}
+	return repCount;
+}
