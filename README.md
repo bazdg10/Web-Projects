@@ -49,7 +49,7 @@ image<br /><br />
 CART<br />
 >id<br />
 user_id<br />
-itemList[Item]<br /><br />
+itemList[item_id]<br /><br />
 
 
 USER<br />
