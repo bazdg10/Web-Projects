@@ -58,7 +58,8 @@ name<br />
 password<br />
 card_id<br /><br />
 
-#########################################################################################<br />
+#######################################################################################
+<br />
 
 # ALL APPS ARE DONE ASSUMING USER WILL USE THE APP MORE FREQUENTLY THAN THE ADMIN
 
